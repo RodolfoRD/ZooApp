@@ -16,5 +16,20 @@ namespace ZooApp
         {
             InitializeComponent();
         }
+
+        private void Label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TxtAnimal_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void LbRepro_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
