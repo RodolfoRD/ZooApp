@@ -8,3 +8,4 @@ C:\Users\Administrator\Desktop\ZooApp\ZooApp\ZooApp\obj\Debug\ZooApp.csproj.Gene
 C:\Users\Administrator\Desktop\ZooApp\ZooApp\ZooApp\obj\Debug\ZooApp.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\ZooApp\ZooApp\ZooApp\obj\Debug\ZooApp.exe
 C:\Users\Administrator\Desktop\ZooApp\ZooApp\ZooApp\obj\Debug\ZooApp.pdb
+C:\Users\Administrator\Desktop\ZooApp\ZooApp\ZooApp\obj\Debug\ZooApp.Refesh.resources
